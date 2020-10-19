@@ -5,8 +5,8 @@ description: >-
 baseurl: ""
 url: ""
 
-remote_theme: mmistakes/minimal-mistakes
-#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
+
 plugins:
   - jekyll-include-cache
   - jekyll-gist
