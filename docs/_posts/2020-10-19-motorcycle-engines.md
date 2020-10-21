@@ -18,6 +18,8 @@ These lists are useful for getting a general understanding of the different kind
 
 ## Engines
 
+While the torque and horsepower characteristics of an engine can change dramatically based on bore, stroke, and compression ratio; these graphs are intended to convey the general differences for common models.
+
 ### Single
 
 #### Honda CBR300R
